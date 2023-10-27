@@ -11,5 +11,6 @@
     "downscalePercent": 100
   },
   "mobilePullAction": "switcher:open",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "propertiesInDocument": "hidden"
 }

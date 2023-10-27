@@ -1,42 +1,45 @@
 ---
 created: 2023-07-07 11:29
+banner: "![[home-1.jpg]]"
+banner_y: 0.32
+banner_locked: true
 ---
-![[adventure banner here.jpg]]
+![[numenera-logo.png]]
+They say there have been eight worlds before ours. Eight times the people of this Earth, over vast millennia, built their civilizations, reaching heights we cannot even fully imagine now. They spoke to the stars, reshaped the creatures of the world, and mastered form and essence. They built cities and machines that have since crumbled to dust, leaving only their barest remnants.
 
-<!-- Choose a logo to suit the system you're using -->
-![[cypher-system.png|right|150]]
-![[tiny-dungeon-2e.webp|right|150]]
+This is the Ninth World. The people of the prior worlds are gone—scattered, disappeared, or transcended. But their works remain, in the places and devices that still contain some germ of their original function. The ignorant call these magic, but the wise know that these are our legacy. They are our future. They are the Numenera.
 
-> [!abstract]- The Adventure Seed
-> Add the adventure seed here. Give a rough overview of the general plot - what's happening, what the characters are supposed to do, etc
-
-# Maps
-```button
-name Create new map
-type command
-action Quickadd: New Map
-```
-^button-new-map
-```dataview
-List 
-From -"_templates"
-Where contains(file.tags, "map")
-Sort file.name
+# Characters
+```page-gallery
+filter: false
+orientation: square
+columns: 3
+fields:
+- file.name
+views:
+- name: Characters
+  from: '-"_templates"'
+  where: 'contains(file.tags, "character") and !contains(file.tags, "archived")'
 ```
 
 # Scenes
+```page-gallery
+filter: false
+orientation: square
+columns: 3
+fields:
+- file.name
+views:
+- name: Characters
+  from: '-"_templates"'
+  where: 'contains(file.tags, "scene") and !contains(file.tags, "archived")'
+```
 ```button
 name Create new scene
 type command
 action Quickadd: New Scene
 ```
 ^button-new-scene
-```dataview
-List
-From -"_templates"
-Where contains(file.tags, "scene") 
-Sort file.name desc
-```
 
 # Characters
 ```button
@@ -49,6 +52,20 @@ action Quickadd: New Character
 List 
 From -"_templates"
 Where contains(file.tags, "character")
+Sort file.name
+```
+
+# Maps
+```button
+name Create new map
+type command
+action Quickadd: New Map
+```
+^button-new-map
+```dataview
+List 
+From -"_templates"
+Where contains(file.tags, "map")
 Sort file.name
 ```
 
