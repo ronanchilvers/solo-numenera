@@ -2,27 +2,17 @@
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 tags: [numenera,character]
 ---
-> [!abstract] Character
-> - **Name:** NAME
-> - **Homeland:** 
-> - **Family Trade:** 
-> - **Belief:**
+**Concept:** NAME is a DESCRIPTOR TYPE who FOCUS
 
-> [!abstract] Heritage
-> **Name:**  
-> **Trait:**
+## Stat Pools
 
-> [!abstract] Traits
-> - Trait 1
-> - Trait 2
-> - Trait 3
-
-> [!help]- Health / Hit Points
-> - 6 hour rest restores all lost HP
-> - Otherwise 1 hour rest restores 1 HP
-
-`class: track`
-> [!abstract] Health
+`class:track`
+> [!abstract] Stat Pools
+> **Might** - *Edge 0*
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
 > - [ ] 
 > - [ ] 
 > - [ ] 
@@ -30,35 +20,68 @@ tags: [numenera,character]
 > - [ ] 
 > - [ ] 
 > 
-> (Add / remove HP boxes as required)
+> **Speed** - *Edge 0*
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> 
+> **Intellect** - *Edge 0*
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
+> - [ ] 
 
-> [!help]- Combat
-> - Test to determine attack outcome
-> - Roll a 5 or 6 to succeed
-> - All weapons inflict 1 HP damage
-> - **Critical Miss:** All 1s
-> - **Critical Hit:** All 6s then +1 damage
-> - **Not proficient:** Disadvantage
-> - **Proficient:** Normal
-> - **Mastered:** Advantage
+### Recovery 
+- [ ] 1 round
+- [ ] 10 minutes
+- [ ] 1 hour
+- [ ] 10 hours
+Roll: `dice: 1d6+1`
 
-`class: track`
-> [!abstract] Weapon Proficiencies
-> - [ ] Unarmed
-> - [ ] Light
-> - [ ] Heavy
-> - [ ] Ranged
+## Mechanics
+
+> [!abstract]- XP
 >
-> **Mastered Weapons:** 
+> | Type        | Count |
+> | ----------- | ----- |
+> | Advancement | 0     |
+> | Re-roll     | 0     | 
 
-> [!help]- Spending Experience
-> - 1xp = Investment Windfall 200 NC  
-> - 6xp = 1 HP
-> - 8xp = New Weapon PM / Spell Slot / Spell Book Page  
-> - 10xp = New Trait / New Spell  
+### DESCRIPTOR
+- **DESCRIPTOR TRAITS**: HERE
 
-> [!abstract] Experience
-> 
-> | Remaining | Spent | Total |
-> | -- | -- | -- |
-> | 0 | 0 | 0 |
+### TYPE 
+- **TYPE TRAITS:** HERE
+
+### FOCUS
+- **FOCUS TRAITS:** HERE
+
+## Equipment 
+- Item 1
+- Item 2
+
+### Weapons
+- Weapon 1
+- Weapon 2
+
+### Artifacts / Cyphers / Oddities
+- **Item 1** - Description
+- **Item 2** - Description
+
+### Money
+- Shins: 0
+
+## Notes 

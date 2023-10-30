@@ -1,10 +1,10 @@
 ---
 created: 2023-07-07 11:29
-banner: "![[home-1.jpg]]"
-banner_y: 0.32
-banner_locked: true
+banner: "![[home-2.jpg]]"
+banner_y: 0.46667
+banner_lock: true
 ---
-![[numenera-logo.png]]
+![[numenera-logo-goldfoil.png]]
 They say there have been eight worlds before ours. Eight times the people of this Earth, over vast millennia, built their civilizations, reaching heights we cannot even fully imagine now. They spoke to the stars, reshaped the creatures of the world, and mastered form and essence. They built cities and machines that have since crumbled to dust, leaving only their barest remnants.
 
 This is the Ninth World. The people of the prior worlds are gone—scattered, disappeared, or transcended. But their works remain, in the places and devices that still contain some germ of their original function. The ignorant call these magic, but the wise know that these are our legacy. They are our future. They are the Numenera.
