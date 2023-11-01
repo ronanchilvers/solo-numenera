@@ -1,0 +1,8 @@
+.page-gallery__tiles {
+    justify-content: left !important;
+}
+.page-gallery__tile-image--image,
+.page-gallery__tile-image--image:active,
+.page-gallery__tile-image--image:hover {
+    box-shadow: none;
+}
