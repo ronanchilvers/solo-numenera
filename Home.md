@@ -43,6 +43,11 @@ views:
 
 # Mechanics
 ```dataview
+Task
+From -"_templates"
+Where contains(tags, "thread")
+```
+```dataview
 List
 From -"_templates"
 Where contains(file.tags, "mechanics") 

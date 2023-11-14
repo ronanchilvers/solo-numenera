@@ -104,7 +104,7 @@ Roll: `dice: 1d6+1`
 - Monoblade katana
 
 ### Artifacts / Cyphers / Oddities
-- *Cypher* - **Denisty Nodule** - Level 1, Crystal nodule affixed to a melee weapon, For the next 28 hours, each time the weapon the nodule is attached to strikes a solid creature or object, the weapon suddenly increases dramatically in weight, causing the blow to inflict an additional 2 points of damage
+- *Cypher* - **Density Nodule** - Level 1, Crystal nodule affixed to a melee weapon, For the next 28 hours, each time the weapon the nodule is attached to strikes a solid creature or object, the weapon suddenly increases dramatically in weight, causing the blow to inflict an additional 2 points of damage
 - *Cypher* - **Rejuvenator** - Level 6, Pill, Restore 6 points to Intellect pool
 - *Oddity* - Small synth hoop that sharpens any blade passed through it
 
