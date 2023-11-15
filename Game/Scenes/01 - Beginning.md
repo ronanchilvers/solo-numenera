@@ -124,4 +124,90 @@ He finds nothing - the door is a tight fit in it's surround. He tries a shoulder
 > **Effort:** 1
 > **Result:** 16
 
-He bounces off the door, the impact sending shooting pains through his good shoulder. He breathes hard, frustrated, the creeping fear he felt earlier beginning to heighten.
+He bounces off the door, the impact sending shooting pains through his good shoulder. He breathes hard, frustrated, the creeping fear he felt earlier beginning to heighten. He leans against the metal wall for a moment, catching his breath, waiting for the flare of pain in his shoulder to calm down. What to do now? Try the door again? Or attempt to break the grill on the duct?
+
+The door is likely to be safer since he doesn't know where the duct leads. On the other hand the duct is likely to be easier to force open. He decides to try the duct. He pulls one of his climbing spikes and hammer from his pack. Using the spike like a chisel, he starts to hammer at the frame of the duct grill, trying to break it open.
+
+> [!roll] Lever open the duct grill
+> **Target Number:** 5
+> **Effort:** 1
+> **Result:** 8
+
+The grill, although damaged, refuses to separate from the surrounding wall. He throws the hammer to the ground in frustration. He decides to try to just smash the grill open by breaking and bending back the mesh.
+
+> [!roll] Break and bend the mesh
+> **Target Number:** 3
+> **Effort:** 0
+> **Result:** 2
+
+He smashes the hammer into the grill mesh but it seems much stronger than it looks and remains intact. His nerves are taught now. He is on edge. He decides to try the door again. Maybe he can hammer the climbing spikes into the surround - if it slides he might be able to lever it open.
+
+> [!oracle] Is it a sliding door?
+> **Roll:** 75 / Nearly certain
+> **Outcome:** Yes
+> **Random Event:** None
+
+Shoan grabs his other climbing spikes and wedging the tip of one into the crack of the door as much as he can, he begins to hammer. There is desperation in his hammer blows. He can feel that he's getting tired and tries to force down the intense fear that is gripping him. 
+
+> [!roll] Hammer the spikes into the door jamb
+> **Target Number:** 4
+> **Effort:** 1
+> **Result:** 6
+
+He manages to drive one of the spikes home but the other two won't stay. He tries again.
+
+> [!roll] Attempt to hammer the spikes in again
+> **Target Number:** 4
+> **Effort:** 1
+> **Result:** 16
+
+This time it works! He drives all three spikes into the door jamb, opening a gap. It _is_ a sliding door! He pushes his fingers into the gap opened by the spikes and hauls hard. He is on the edge of exhaustion.
+
+> [!roll] haul open the door
+> **Target Number:** 5
+> **Effort:** 1
+> **Result:** 1
+
+> [!warning] GM Intrusion
+> **Result:** His hands slip and knock the spikes out.
+
+As he pulls he braces his feet against the door jamb. His hand slips, he loses balance and falls backwards. His feet kick up and dislodge all three spikes from the door, which immediately slides shut again with a crisp *sccchhhlunk*. Shoan collapses back against the metal wall and let's out a yell of frustration and rage. Exhausted, he slumps back against the wall, his hand and leg aching from the fall. He takes a moment to rest against the metal wall, unyielding though it is. He closes his eyes.
+
+*His mind drifts. He remembers the journey through the forest, the nano keeping himself to himself, unwilling to speak to anyone. He remembers when they entered the valley; seeing the obelisk for the first time; the look on the nano's face - hunger, greed. He remembers watching the nano later that day, wondering what his real purpose was. He remembers telling Joya ... Joya! He remembers Joya!*
+
+> [!oracle] Recovery roll - 4, 4
+
+He opens his eyes. The glowglobe hovers in the air just above him. He gets to his feet, finds the climbing spikes, the hammer and bracing himself, begins to once again hammer the spikes home.
+
+> [!roll] Hammer the spikes into the now damaged door jamb
+> **Target Number:** 3
+> **Effort:** 0
+> **Result:** 10
+
+The spikes wedge in more easily this time. He makes sure they are secure, outs down the hammer and once again works his fingers into the gap. He pauses for a moment, uttering a murmured prayer, braces himself and pulls hard.
+
+> [!roll] Haul the door open
+> **Target Number:** 5
+> **Effort:** 1
+> **Result:** 1
+
+> [!warning] GM Intrusion
+> **Result:** 1d3 spikes break - 2
+
+The door gives a little but then slams shut again. Two of the three climbing spikes snap and ping off into the darkness. The third clatters to the ground. Shoan begins to feel real fear. Is he going to die in this place? What if he can't get out. He wants to see Joya again - where is she?
+
+He walks back across to the duct opening and peers in, trying to see if he missed anything the first time.
+
+> [!oracle] Did he miss anything?
+> **Roll:** 27 / Unlikely
+> **Outcome:** Yes
+> **Random Event:** None
+
+He gestures the glowglobe closer and sees that the frame is thinner of one side. It wasn't visible before but the damage he caused with the climbing spikes has revealed it. He grabs the remaining spike and works itmunder the frame at the thinner section. Then he grips the hammer, raises it high and brings it down with an almighty crash.
+
+> [!roll] Can he break the grill frame?
+> **Target Number:** 4
+> **Effort:** 1
+> **Result:** 18
+
+With a loud metallic ping, the frame pops free of the duct entrance. Shoan breathes a sigh of relief - finally something goes right!!

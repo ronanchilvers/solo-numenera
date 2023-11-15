@@ -14,11 +14,11 @@ tags: [numenera,character]
 > - [ ] 
 > - [ ] 
 > - [ ] 
-> - [ ] 
-> - [ ] 
-> - [ ] 
-> - [ ] 
-> - [ ] 
+> - [x] 
+> - [x] 
+> - [x] 
+> - [x] 
+> - [x] 
 > - [x] 
 > - [x] 
 > 
@@ -53,7 +53,7 @@ tags: [numenera,character]
 > - [ ] 
 
 ### Recovery 
-- [ ] 1 round
+- [x] 1 round
 - [ ] 10 minutes
 - [ ] 1 hour
 - [ ] 10 hours
