@@ -19,8 +19,8 @@ tags: [numenera,character]
 > - [ ] 
 > - [ ] 
 > - [ ] 
-> - [ ] 
-> - [ ] 
+> - [x] 
+> - [x] 
 > 
 > **Speed** - *Edge 1*
 > - [ ] 

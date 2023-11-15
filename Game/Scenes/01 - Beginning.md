@@ -68,7 +68,7 @@ He reaches out to the wall to steady himself and gasps in pain - his right arm i
 > **Outcome:** No
 > **Random Event:** None
 
-He closes his eyes, trying to remember how he came here. He remembers a lot of people, travelling with them to get ... somewhere. He remembers them arriving at their destination ... a huge glistening obelisk floating about 20 feet from the ground in a small valley, hidden from sight by the surrounding forest. Forest!! He remembers the journey through the forest. He remembers their arrival at the obelisk, staring up at the impossibly tall shape. The nano... what was his name... he wanted to go inside it.
+He closes his eyes, trying to remember how he came here. He remembers a lot of people, travelling with them to get ... somewhere. He remembers them arriving at their destination ... a huge glistening iridescent obelisk floating about 20 feet from the ground in a small valley, hidden from sight by the surrounding forest. Forest!! He remembers the journey through the forest. He remembers their arrival at the obelisk, staring up at the impossibly tall shape. The nano... what was his name... he wanted to go inside it.
 
 Shoan shakes his head. He feels groggy, nauseous. He lifts the glowglobe high and peers around. Looks like they did get inside... somehow!
 
@@ -77,4 +77,51 @@ Shoan shakes his head. He feels groggy, nauseous. He lifts the glowglobe high an
 > **Outcome:** Yes
 > **Random Event:** None
 
-He sees, a little further round the wall from him, the outline of a door or hatch in the metal wall. Stumbling a little, he moves across to it and examines it carefully.
+He sees, a little further round the wall from him, the outline of a door or hatch in the metal wall. Stumbling a little, he moves across to it and examines it carefully. 
+
+> [!oracle] Is there an obvious way of opening the door?
+> **Roll:** 55
+> **Outcome:** No
+> **Random Event:** None
+
+He can't see any obvious way for the door to open. He shines the glowglobe around, searching for any other entrances.
+
+> [!oracle] Are there any other potential exits?
+> **Roll:** 36
+> **Outcome:** Yes
+> **Random Event:** None
+
+He spots an opening, blocked by a metal grill, at head height on the opposite side of the space. The opening looks like some sort of ventilation duct. He walks across to it and pushing his fingers into the grill, he tugs at it.
+
+> [!roll] How strong is the grill?
+> **Result:** 6
+
+The grill is bolted in place. Shoan hauls at it, trying to pull it free.
+
+> [!roll] Break the grill free
+> **Target Number:** 6
+> **Effort:** 0
+> **Result:** 12
+
+He strains hard but the grill doesn't move. Frustrated, Shoan looks around for any other way out.
+
+> [!oracle] Is there another exit?
+> **Roll:** 63 / very unlikely
+> **Outcome:** No
+> **Random Event:** None
+
+The metal walls are sheer. Apart from the embedded door and the duct there is no way out. Shoan crosses back to the door and examines the surround, looking for some way to open it.
+
+> [!roll] Can he find some clue to opening the door?
+> **Target Number:** 5
+> **Effort:** 0
+> **Result:** 14
+
+He finds nothing - the door is a tight fit in it's surround. He tries a shoulder against it - can he just break it open?
+
+> [!roll] Break the door open
+> **Target Number:** 7
+> **Effort:** 1
+> **Result:** 16
+
+He bounces off the door, the impact sending shooting pains through his good shoulder. He breathes hard, frustrated, the creeping fear he felt earlier beginning to heighten.
