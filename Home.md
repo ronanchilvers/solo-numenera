@@ -13,7 +13,7 @@ This is the Ninth World. The people of the prior worlds are gone - scattered, di
 
 ```page-gallery
 filter: false
-orientation: square
+orientation: square 
 columns: 3
 fields:
 - file.name

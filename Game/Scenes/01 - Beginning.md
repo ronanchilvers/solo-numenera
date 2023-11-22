@@ -173,7 +173,7 @@ This time it works! He drives all three spikes into the door jamb, opening a gap
 
 As he pulls he braces his feet against the door jamb. His hand slips, he loses balance and falls backwards. His feet kick up and dislodge all three spikes from the door, which immediately slides shut again with a crisp *sccchhhlunk*. Shoan collapses back against the metal wall and let's out a yell of frustration and rage. Exhausted, he slumps back against the wall, his hand and leg aching from the fall. He takes a moment to rest against the metal wall, unyielding though it is. He closes his eyes.
 
-*His mind drifts. He remembers the journey through the forest, the nano keeping himself to himself, unwilling to speak to anyone. He remembers when they entered the valley; seeing the obelisk for the first time; the look on the nano's face - hunger, greed. He remembers watching the nano later that day, wondering what his real purpose was. He remembers telling Joya ... Joya! He remembers Joya!*
+*His mind drifts. He remembers the journey through the forest, the nano keeping himself to himself, unwilling to speak to anyone. He remembers when they entered the valley; seeing the obelisk for the first time; the look on the nano's face - hunger, greed. He remembers watching the nano later that day, wondering what his real purpose was. He remembers telling Joya ... Joya!! He remembers Joya!!*
 
 > [!oracle] Recovery roll - 4, 4
 
@@ -211,3 +211,85 @@ He gestures the glowglobe closer and sees that the frame is thinner of one side.
 > **Result:** 18
 
 With a loud metallic ping, the frame pops free of the duct entrance. Shoan breathes a sigh of relief - finally something goes right!!
+
+He pulls himself up to peer down the duct. He sends the glowglobe a little way in. It is big enough for him to crawl along although he'll have to pull his pack behind him. He grits his teeth - tight spaces aren't his favourite thing but the alternative is staying in here. He grabs his pack, stuffs the hammer and remaining spike back in and then climbs up into the duct. Pulling his pack behind him he begins to crawl along the duct, the glowglobe illuminating the tunnel ahead of him.
+
+> [!roll] What percentage of the glowglobe power has been used?
+> **Result:** 28%
+
+The duct continues straight for a few meters before it branches. The main duct travels onwards but the new branch heads at right angles to it.
+
+> [!oracle] is the new branch an exit?
+> **Roll:** 86 / 50-50
+> **Outcome:** No
+> **Random Event:** None
+
+The new branch heads off into darkness. Shoan decides to continue following the original duct. He crawls further along. He is weary and his pack keeps jamming against the sides of the duct. Before too long the duct branches again.
+
+> [!oracle] Is this new branch an exit?
+> **Roll:** 55 / 50-50
+> **Outcome:** No
+> **Random Event:** None
+
+This time Shoan decides to follow the new branch which leads off at an angle from the one he is already following.
+
+> [!oracle] Is the new branch an exit?
+> **Roll:** 95 / Very likely
+> **Outcome:** No
+> **Random Event:** None
+
+He crawls forwards until the duct turns upwards, the corner to cramped for him to navigate. He begins the arduous process of reversing back to the junction. Once he reaches it starts off again, following the original ducting.
+
+> [!oracle] Does he find an exit?
+> **Roll:** 74 / Nearly certain
+> **Outcome:** Yes
+> **Random Event:** None
+
+> [!oracle] Does the duct exit inside the obelisk?
+> **Roll:** 88 / Very likely
+> **Outcome:** No
+> **Random Event:** None
+
+> [!oracle] Is it day time?
+> **Roll:** 49 / 50-50
+> **Outcome:** Yes
+> **Random Event:** None
+
+He crawls forward until he sees ahead of him a glimmer of light. The duct starts to angle downwards and before he can stop himself he starts to slide on the sheer metal. He tries to stop his slide using his feet.
+
+> [!roll] Brace himself to stop his slide
+> **Target Number:** 3
+> **Effort:** 1
+> **Result:** 12
+
+He thrusts his hands and feet out to stop his slide. The metal of the duct is sheer but he manages to slow and then stop himself. He grits his teeth and then slowly let's himself slide, little by little towards the end of the duct. He reaches the end and peers out. It is late afternoon and he can see the twilit sky above trees.
+
+> [!oracle] Is he close to the ground?
+> **Roll:** 28 / Unlikely
+> **Outcome:** Yes
+> **Random Event:** None
+
+The duct seems to exit the shell of the obelisk about 14 or 15 feet from the ground. Shoan wonders how to drop out, head first, without ending up a crumpled heap on the ground. He tries to maneuver himself out of the duct while keep a grip on the sheer metal.
+
+> [!roll] Exit the duct and drop to the ground safely
+> **Target Number:** 4
+> **Effort:** 1
+> **Result:** 8
+
+He almost makes it but at the last moment his foot slips and he tumbles to the ground below.
+
+> [!oracle] 2 points of damage
+
+> [!oracle] Is he alone?
+> **Roll:** 3 / Very likely
+> **Outcome:** Ex Yes
+> **Random Event:** None
+
+He groans as he rolls over and struggles to sit up. His shoulder hit the ground and is bleeding freely again. He shakes his head to clear it and waits for the pain to subside again. After a moment, he lifts his head and looks around. His vision is blurry. He can see a circle of figures standing around him. He hears raised voices. He shakes his head, pushing himself up onto his knees. He looks up and sees the nano. He is standing a little way off, his hands clasped in the sleeves of his coat as usual. He is gazing down at Shoan, his unnaturally blue eyes bright in the evening sunlight. Shoan suddenly remembers his name.
+
+[[T'ikon]].
+
+***END***
+> [!help]- Experience Points
+
+Experience (per character): 1

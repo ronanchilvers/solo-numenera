@@ -12,8 +12,8 @@ tags: [numenera,character]
 > **Might** - *Edge 1*
 > - [ ] 
 > - [ ] 
-> - [ ] 
-> - [ ] 
+> - [x] 
+> - [x] 
 > - [x] 
 > - [x] 
 > - [x] 
@@ -36,12 +36,12 @@ tags: [numenera,character]
 > - [ ] 
 > - [ ] 
 > - [ ] 
-> - [ ] 
-> - [ ] 
-> - [ ] 
-> - [ ] 
-> - [ ] 
-> - [ ] 
+> - [x] 
+> - [x] 
+> - [x] 
+> - [x] 
+> - [x] 
+> - [x] 
 > 
 > **Intellect** - *Edge 0*
 > - [ ] 
@@ -54,7 +54,7 @@ tags: [numenera,character]
 
 ### Recovery 
 - [x] 1 round
-- [ ] 10 minutes
+- [x] 10 minutes
 - [ ] 1 hour
 - [ ] 10 hours
 Roll: `dice: 1d6+1`
@@ -65,8 +65,8 @@ Roll: `dice: 1d6+1`
 >
 > | Type        | Count |
 > | ----------- | ----- |
-> | Advancement | 0     |
-> | Re-roll     | 0     | 
+> | Advancement | 1     |
+> | Re-roll     | 1     | 
 
 ### Swift
 - **Fast**: +4 to your Speed Pool.  

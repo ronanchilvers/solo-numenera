@@ -1,6 +1,6 @@
 ---
 created: 2023-07-31 23:05
-tags: [numenera,engines]
+tags: [numenera,engines,mechanics]
 ---
 # Fate Chart
 `dice: 1d100`
