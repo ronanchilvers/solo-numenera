@@ -66,7 +66,7 @@ Shoan throws himself forwards to avoid the blade, hoping to roll under and past 
 > **Effort:** 1 Speed
 > **Result:** 10
 
-He throws himself forwards, trying to roll under the darting blades. He gets past but isn't fast enough getting to his feet. He loses his balance for a moment and staggers against the wall, still within range of the blades. They darts towards him.
+He throws himself forwards, trying to roll under the darting blades. He gets past but isn't fast enough getting to his feet. He loses his balance for a moment and staggers against the wall, still within range of the blades. They dart towards him.
 
 > [!roll] Defend against the attack
 > **Target Number:** 5/15
@@ -74,3 +74,17 @@ He throws himself forwards, trying to roll under the darting blades. He gets pas
 > **Result:** 20 / Major Effect
 
 Shoan twists aside as the blades slash towards him. He rolls against the wall, ducking out of the way and throwing himself head first along the corridor. He manages to bring his legs up and rolls forwards and onto his feet, breaking into a run. The lights of the corridor flicker on around him and behind him the shrieking of the mist fades. He turns a corner and skids to a halt in the doorway of a large chamber.
+
+***END***
+> [!help]- Experience Points
+> Awarded during gameplay for  discoveries and GM intrusions. Can be used for a variety of things, including purchasing character  benefits.
+> 
+> **Available Benefits**
+> Each costs 4 XP and can only be purchased once per tier. Four need to be purchased before tier advancement is allowed.
+> - *Increase abilities* - +4 to stat pools
+> - *Extra Effort* - +1 effort
+> - *Move Towards Perfection* - +1 edge
+> - *Skill Training* - Train or specialise in any skill
+> - *Other* - See Numenera Discovery p.128
+
+Experience (per character): 1

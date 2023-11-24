@@ -61,12 +61,12 @@ Roll: `dice: 1d6+1`
 
 ## Mechanics
 
-> [!abstract]- XP
->
+> [!abstract] Experience
+> 
 > | Type        | Count |
 > | ----------- | ----- |
-> | Advancement | 1     |
-> | Re-roll     | 1     | 
+> | Advancement | 2     |
+> | Re-roll     | 2     | 
 
 ### Swift
 - **Fast**: +4 to your Speed Pool.  
