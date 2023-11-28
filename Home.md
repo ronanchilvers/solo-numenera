@@ -24,7 +24,7 @@ views:
   where: 'contains(file.tags, "scene") and !contains(file.tags, "archived")'
 
 - name: Characters
-  from: '-"_templates"'
+  from: '"Game/Characters"'
   where: 'contains(file.tags, "character") and !contains(file.tags, "archived")'
 
 - name: NPCs
