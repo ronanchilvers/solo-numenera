@@ -5,13 +5,13 @@ tags:
   - map
 ---
 ```leaflet
-id: unique-map-id
+id: ninth-world-map
 image: [[Numenera - The Ninth World.png]]
 lat: 60
 long: 40
 defaultZoom: 9
 height: 100%
 draw: false
-scale: 1000
+scale: 605
 ```
-![[NinthWorldMap - Thumbnail.jpg]]
+![[NinthWorldMap - Thumbnail.jpg|0]]
