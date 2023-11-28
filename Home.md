@@ -18,35 +18,37 @@ columns: 3
 fields:
 - file.name
 views:
+
 - name: Scenes
   from: '-"_templates"'
   where: 'contains(file.tags, "scene") and !contains(file.tags, "archived")'
+
 - name: Characters
   from: '-"_templates"'
   where: 'contains(file.tags, "character") and !contains(file.tags, "archived")'
+
 - name: NPCs
   from: '-"_templates"'
   where: 'contains(file.tags, "npc") and !contains(file.tags, "archived")'
+
 - name: Places
   from: '-"_templates"'
   where: 'contains(file.tags, "place") and !contains(file.tags, "archived")'
+
 - name: Setting Details
   from: '-"_templates"'
   where: 'contains(file.tags, "setting") and !contains(file.tags, "archived")'
+
 - name: Creatures
   from: '-"_templates"'
   where: 'contains(file.tags, "creature") and !contains(file.tags, "archived")'
+
 - name: Maps
   from: '-"_templates"'
   where: 'contains(file.tags, "map") and !contains(file.tags, "archived")'
 ```
 
 # Mechanics
-```dataview
-Task
-From -"_templates"
-Where contains(tags, "thread")
-```
 ```dataview
 List
 From -"_templates"
