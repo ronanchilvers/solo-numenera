@@ -60,6 +60,12 @@ Shoan grits his teeth - "Dammit."
 
 He grips the hilt of his sword, drawing it smoothly. It is humming with energy, the monoblade crackling and sparking. [[T'ikon]] steps back and Shoan strides forward up the ramp.
 
+> [!question] Character
+> - [ ] #character  The Obelisk
+
+> [!question] Thread
+> - [ ] #thread  Find Joya and rescue her if possible
+
 ***END***
 > [!help]- Experience Points
 

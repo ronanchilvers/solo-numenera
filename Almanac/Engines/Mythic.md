@@ -2,6 +2,22 @@
 created: 2023-07-31 23:05
 tags: [numenera,engines,mechanics]
 ---
+# Threads
+```dataview
+Task
+From -"_templates"
+Where contains(tags, "thread")
+Sort created ascending
+```
+
+# Characters
+```dataview
+Task
+From -"_templates"
+Where contains(tags, "character")
+Sort created ascending
+```
+
 # Fate Chart
 `dice: 1d100`
 ![[chaos-fate-chart.png]]

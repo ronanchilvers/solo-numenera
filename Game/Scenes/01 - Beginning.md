@@ -12,6 +12,9 @@ tags: [scene]
 > [!question] Thread
 > - [ ] #thread  GM Intrusion
 
+> [!question] Character
+> - [ ] #character  GM Intrusion
+
 - Shoan blinks, his eyes feeling gummy and glued shut. His body feels stiff and cold without its usual flexibility and strength. He tries to sit up but needs several attempts before he manages it. He scrubs his hands across his eyes - it feels as if he has a terrible hangover. His vision is blurry as he looks around.
 
 > [!oracle] Is Shoan inside somewhere?
@@ -20,7 +23,7 @@ tags: [scene]
 > **Random Event:** None
 
 > [!question] Thread
-> - [ ] #thread  Find out where Shoan is
+> - [x] #thread  Find out where Shoan is
 
 > [!oracle] Is it dark?
 > **Roll:** 11
@@ -175,6 +178,9 @@ As he pulls he braces his feet against the door jamb. His hand slips, he loses b
 
 *His mind drifts. He remembers the journey through the forest, the nano keeping himself to himself, unwilling to speak to anyone. He remembers when they entered the valley; seeing the obelisk for the first time; the look on the nano's face - hunger, greed. He remembers watching the nano later that day, wondering what his real purpose was. He remembers telling Joya ... Joya!! He remembers Joya!!*
 
+> [!question] Character
+> - [ ] #character  Joya
+
 > [!oracle] Recovery roll - 4, 4
 
 He opens his eyes. The glowglobe hovers in the air just above him. He gets to his feet, finds the climbing spikes, the hammer and bracing himself, begins to once again hammer the spikes home.
@@ -288,6 +294,9 @@ He almost makes it but at the last moment his foot slips and he tumbles to the g
 He groans as he rolls over and struggles to sit up. His shoulder hit the ground and is bleeding freely again. He shakes his head to clear it and waits for the pain to subside again. After a moment, he lifts his head and looks around. His vision is blurry. He can see a circle of figures standing around him. He hears raised voices. He shakes his head, pushing himself up onto his knees. He looks up and sees the nano. He is standing a little way off, his hands clasped in the sleeves of his coat as usual. He is gazing down at Shoan, his unnaturally blue eyes bright in the evening sunlight. Shoan suddenly remembers his name.
 
 [[T'ikon]].
+
+> [!question] Character
+> - [ ] #character  T'ikon
 
 ***END***
 > [!help]- Experience Points
