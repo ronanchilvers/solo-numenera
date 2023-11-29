@@ -1,5 +1,90 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "unique-map-id",
+      "lastAccessed": 1701205898317,
+      "markers": [
+        {
+          "id": "ID_f96bb9f848a9",
+          "type": "default",
+          "loc": [
+            -0.7444686889648438,
+            1.1556243896484375
+          ],
+          "layer": "%5B%5BNinth%20World%20-%20Ba-Adenu%20Forest.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Obelisk",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_58e9f86b3b0a",
+          "type": "default",
+          "loc": [
+            -1.3107452392578125,
+            1.376861572265625
+          ],
+          "layer": "%5B%5BNinth%20World%20-%20Ba-Adenu%20Forest.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_8a6878480879",
+          "type": "default",
+          "loc": [
+            -1.27276611328125,
+            1.4801025390625
+          ],
+          "layer": "%5B%5BNinth%20World%20-%20Ba-Adenu%20Forest.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": []
+    },
+    {
+      "id": "be-adenu-forest-map",
+      "lastAccessed": 1701245006240,
+      "markers": [
+        {
+          "id": "ID_8abae989ca1b",
+          "type": "default",
+          "loc": [
+            -0.7122421264648438,
+            1.1573257446289062
+          ],
+          "layer": "%5B%5BNinth%20World%20-%20Ba-Adenu%20Forest.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Obelisk",
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Almanac/Places/Ba-Adenu Forest.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",

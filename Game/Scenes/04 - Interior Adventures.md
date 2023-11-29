@@ -56,7 +56,63 @@ Shoan holds his hands up - "I'm not here to harm you. I'm looking for a friend. 
 
 Shoan tries to keep his voice steady - "Shoan Corran. I'm looking for my friend who came in here a little while ago."
 
-> [!roll] Convince the figure that he isn't a threat at the moment
+> [!roll] Shoan convinces the figure that he is not a threat
 > **Target Number:** 3
 > **Effort:** 0
-> **Result:** 
+> **Result:** 19
+
+The figure says nothing, the light continues to play back and forth across his face. It straightens suddenly, it's movement fluid and precise.
+
+"Pulse and respiratory rates are elevated. Common stress patterns detected. Compensating."
+
+The figure once again begins to flow and change. This time detail begins to emerge, the dark glass surface becoming opaque, changing colour and texture as it adopts the form of a human male, dressed in clothes similar to Shoan's own. The man seems to be in his mid to late thirties, slight stubble on his face. There is are thin scars on his right cheek. The man squats down next to Shoan and holds out a hand.
+
+"Easier to talk like this I think. I'm Thaeox - pleased to meet you."
+
+> [!question] Character
+> - [ ] #character Thaeox 
+
+Shoan struggles into a sitting position and tentatively reaches out to take the man's hand. It is warm, to all appearances a living human hand. Thaeox stands and helps Shoan to his feet.
+
+> [!oracle] Does Thaeox know that Shoan and Joya entered the obelisk before?
+> **Roll:** 30 / Very likely
+> **Outcome:** Yes
+> **Random Event:** None
+
+"You're looking for a friend you said? You've been in here before - I recognise you."
+
+Shoan nods, somewhat bewildered by Thaeox sudden appearance.
+
+"My friend and I came in here a while back. I don't remember much about it. I was trapped - managed to climb out of a ventilation duct. She's still in here somewhere - I need to find her."
+
+Thaeox nods - "A ventilation duct, eh? Eeshk - that must have been fun! Lucky there wasn't a purge while you were in it." He sees Shoan's look of puzzlement - "Oh - a purge is when the ventilation system cleans itself. Boiling vapour is pumped through it." He grins - "Probably would have roasted you."
+
+Shoan swallows hard. "Who... who are you?"
+
+> [!oracle] Is Thaeox the control AI for the obelisk?
+> **Roll:** 17 / Nearly certain
+> **Outcome:** Ex Yes
+> **Random Event:** None
+
+Thaeox looks puzzled for a moment and then - "Oh sorry! I've not told you that have I!" - He pauses for a second scratching his beard. "I'm ... well I'm ... hmm. Hard to explain in words. I live here - this is my place. I control this structure." He bows and a warm smile lights his face - "At your service!"
+
+Shoan nods - "Good to meet you. I'm sorry we invaded your space."
+
+Thaeox' head tilts a little - "Ah yes - what are you doing here? Looking for something? Who are the group of surly brutes outside. One of them seems to be able to communicate with me."
+
+Shoan says - "That'll be T'ikon. He's a nano. I don't understand it but he's good with tech. The others are mercenaries - like me I guess. T'ikon hired us in Curtaris, Joya and me. He wanted someone to come out here with him and, as it turns out, someone to come in here ahead of him."
+
+Thaeox nods - "I understand. Like the sin-eaters of old - he wanted you to take the risks so that he could get the pay off."
+
+Shoan says urgently - "Do you know where Joya is? You must know surely? Where did she go?"
+
+> [!oracle] Does Thaeox know where Joya is?
+> **Roll:** 41 / Nearly certain
+> **Outcome:** Yes
+> **Random Event:** None
+
+> [!oracle] Is Joya still alive?
+> **Roll:** 8 / 50-50
+> **Outcome:** Ex Yes
+> **Random Event:** None
+
