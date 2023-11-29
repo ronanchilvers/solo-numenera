@@ -98,7 +98,7 @@ Thaeox looks puzzled for a moment and then - "Oh sorry! I've not told you that h
 
 Shoan nods - "Good to meet you. I'm sorry we invaded your space."
 
-Thaeox' head tilts a little - "Ah yes - what are you doing here? Looking for something? Who are the group of surly brutes outside. One of them seems to be able to communicate with me."
+Thaeox' head tilts a little - "Ah yes - what *are* you doing here? Looking for something? Who are the group of surly brutes outside. One of them seems to be able to communicate with me."
 
 Shoan says - "That'll be T'ikon. He's a nano. I don't understand it but he's good with tech. The others are mercenaries - like me I guess. T'ikon hired us in Curtaris, Joya and me. He wanted someone to come out here with him and, as it turns out, someone to come in here ahead of him."
 
@@ -116,3 +116,23 @@ Shoan says urgently - "Do you know where Joya is? You must know surely? Where di
 > **Outcome:** Ex Yes
 > **Random Event:** None
 
+Thaeox looks at him fora moment. His eyes glitter in the dim light. "She is unharmed. I can take you to her if you like." Shoan nods - take me there. Now! ... Please." This last comes out as an after thought. His relief that Joya is alive surges through him. Thaeox stands motionless for a moment looking at him. Then he nods and turns, walking quickly away across the chamber.
+
+"This way! Follow, follow."
+
+Shoan follows, half running to catch up. They walk directly across the chamber, very close to the floating rod in the centre. Shoan can see it is made of the same glass-like material that the floor and walls are and that it seems to be filled with a swirling pattern if lights.
+
+"What is that?" He asks Thaeox as he hurried to keep up. Thaeox doesn't break his stride. He glanced at the rod. "That? Oh .. well, that's me. Sort of. It's where the 'me' of me is at least. That doesn't really make sense does it. Well - probably enough to say that it is the point in which control of this vessel is located. Clever thing too! Even though it's sort of me, it still gives me a headache when I think about it."
+
+Shoan looks back at the rod. It seems to have changed shape or maybe size, he can't quite tell. It makes his eyes feel odd to look at it.
+
+They walk briskly to the other side of the chamber, to an opening in the wall. Thaeox walks straight in without hesitation and Shoan, after a moment of hesitation, follows. Thaeox stops in what seems to be an alcove in the wall. "Come in. Make sure nothing is sticking out of the opening or you might lose it. All in? Good."
+
+Suddenly the sides of the opening flex and ripple, flowing rapidly together. In moments they are encased in a bubble in the glass wall. Shoan has a sickening sense of impossibly rapid movement, of surging upwards, then of a sudden halt. He staggers, putting out a hand to steady himself. As he does so the wall vanishes, flowing back into itself. Thaeox steps through the new gap into a different chamber. This one is similarly vast and is flooded with light. The walls seem to be transparent and Shoan can see the surrounding countryside clearly. They seem to be hundreds of feet above the ground. The setting sun hangs just above the horizon, flooding the forest around them with evening light. He steps out of the alcove, following Thaeox.
+
+> [!oracle] Is Joya here?
+> **Roll:** 90 / Likely
+> **Outcome:** No
+> **Random Event:** None
+
+The chamber is empty apart from a structure of some sort in the centre. Shoan says "Is she here? Where is she?" Thaeox grins at him - "She's not here. Not yet. She will be in a moment." He turns to gaze out at the setting sun. "Ah! Here she is." Raising a hand, he points.
