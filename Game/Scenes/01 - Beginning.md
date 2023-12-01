@@ -296,7 +296,7 @@ He groans as he rolls over and struggles to sit up. His shoulder hit the ground 
 [[T'ikon]].
 
 > [!question] Character
-> - [ ] #character  T'ikon
+> - [ ] #character  [[T'ikon]]
 
 ***END***
 > [!help]- Experience Points

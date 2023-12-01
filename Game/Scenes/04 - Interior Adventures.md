@@ -116,7 +116,7 @@ Shoan says urgently - "Do you know where Joya is? You must know surely? Where di
 > **Outcome:** Ex Yes
 > **Random Event:** None
 
-Thaeox looks at him fora moment. His eyes glitter in the dim light. "She is unharmed. I can take you to her if you like." Shoan nods - take me there. Now! ... Please." This last comes out as an after thought. His relief that Joya is alive surges through him. Thaeox stands motionless for a moment looking at him. Then he nods and turns, walking quickly away across the chamber.
+Thaeox looks at him fora moment. His eyes glitter in the dim light. "She is unharmed. I can take you to her if you like." Shoan nods - "Take me there. Now! ... Please." This last comes out as an after thought. His relief that Joya is alive surges through him. Thaeox stands motionless for a moment looking at him. Then he nods and turns, walking quickly away across the chamber.
 
 "This way! Follow, follow."
 
@@ -136,3 +136,31 @@ Suddenly the sides of the opening flex and ripple, flowing rapidly together. In 
 > **Random Event:** None
 
 The chamber is empty apart from a structure of some sort in the centre. Shoan says "Is she here? Where is she?" Thaeox grins at him - "She's not here. Not yet. She will be in a moment." He turns to gaze out at the setting sun. "Ah! Here she is." Raising a hand, he points.
+
+Shoan turns to look and sees a thin column of light appear between the floor and ceiling of the chamber. The column is incredibly bright and Shoan squints, shielding his eyes with his hands. The column broadens, swelling into a pillar several feet across. Within the light Shoan sees a figure. It is crouching  on the floor, its arms over its head.
+
+The light flares and slowly dies. As his eyes re-adjust he sees that figure is a woman. She is kneeling on one knee on the floor. She is wearing travelling clothes similar to his own. He can see a cloak dropped around her. The cloak has slashes in it and the clothes beneath are similarly cut.
+
+*Joya walks forward into the corridor. Shoan shouts - "Joya! Wait!!". The whispering intensifies into a shrieking. The tendrils of mist solidify and flicker towards Joya, the ends transformed into blades. Quick as a cat she dodges aside, spinning to avoid the cuts, twirling to a stop facing him. The shrieking stops suddenly. Joya grins "No problem Corran - it'll take more ...". Her words are cut short as three tendrils whip out of the walls and floor, blades whistling through the air and slashing into her. A look of shock crosses her face, her eyes suddenly wide. She stares at him - "Shoan..." - her hand reaches out, trembling. Then she collapsed to the floor with a soft sigh. Shoan cries out but his scream is cut short as the floor beneath him vanishes and he plummets into darkness.*
+
+Shoan jumps forwards - "Joya! Are you ok? It's me, Shoan!"
+
+> [!oracle] Has Joya lost her memories of Shoan?
+> **Roll:** 31 / 50-59
+> **Outcome:** Yes
+> **Random Event:** None
+
+Joya's arms slowly move away from her head. She braces her hands on the floor and pushes herself to her feet, her back to Shoan. She stands for a moment, her shoulders moving as she is breathing heavily. Slowly she turns towards him, her face lifting to look at him.
+
+> [!oracle] Is she hostile towards Shoan?
+> **Roll:** 63 / 50-50
+> **Outcome:** Yes
+> **Random Event:** None
+
+Shoan steps back away from her. "Joya? ... Joya, it's me Shoan."
+
+"She is no longer Joya." - Thaeox voice is matter if fact, friendly still. " She is more than that now. She is part of the obelisk, part of me. She has never been. More perfect."
+
+Shoan takes another step back as Joya faces him. Her face is expressionless. Shoan swears under his breath as he sees her eyes. They are blank, dark glass, swirling motes of light within them. She steps forwards and Shoan sees threads of the dark glass woven into the skin of her neck. Her hand reaches for her sword and she unsheathes it purposefully.
+
+"Joya! Calvel's eyes - don't you know me? Joya!!"
